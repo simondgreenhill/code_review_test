@@ -2,15 +2,11 @@ Hi Lucy!
 
 This is an example script you could review.
 
-Some other lines here, which are different from what's on master
-bla
-bla
-bla
-
-
 Check out more about Github's code review features here: https://github.com/features/code-review/
 
 Here are some extra lines
 bla
 bla
 bla # I like this line, but don't you think 2 bla's are enough? 
+
+here's more stuff.
