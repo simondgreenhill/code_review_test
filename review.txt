@@ -1,0 +1,5 @@
+Hi Lucy! 
+
+This is an example script you could review.
+
+Check out more about Github's code review features here: https://github.com/features/code-review/
