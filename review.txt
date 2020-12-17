@@ -1,3 +1,7 @@
+Some more lines of new code!
+New and improved!
+Fast and sleek!
+
 Hi Lucy! 
 
 This is an example script you could review.
